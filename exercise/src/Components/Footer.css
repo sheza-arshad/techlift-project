@@ -1,0 +1,6 @@
+#footer {
+  background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);
+  /* overflow: hidden; */
+  position: relative;
+  bottom: 0;
+}

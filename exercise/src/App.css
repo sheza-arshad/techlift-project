@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+nav {
+  height: 80px;
+  background-color: brown;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 50px 0px 100px;
+}
+nav ul {
+  display: flex;
+  list-style: none;
+}
+nav ul li a {
+  color: azure;
+}
+#formback {
+ 
+  background-image:url("../public/pics/Gym-2.webp");
+  /* background-image:linear-gradient(to right,rgba(44, 32, 32, 0.3),rgba(164, 183, 184, 0.9)) ,url("../public/pics/Running.webp"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: antiquewhite;
+}
+label{
+color: #ffffff;
+}
+#label2{
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#formcolor{
+  background-color:#080807;
+
+}
